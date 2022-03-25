@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="BriefcaseRule.Id" type="SfFieldLabel" value="Briefcase Rule ID"/>
+  <translation key="BriefcaseRule.ParentRuleId" type="SfFieldLabel" value="Briefcase Rule"/>
+  <translation key="BriefcaseRule.TargetEntity" type="SfFieldLabel" value="Target Object"/>
+</translations>

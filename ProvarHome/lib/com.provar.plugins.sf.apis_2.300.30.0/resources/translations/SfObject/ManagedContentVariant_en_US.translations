@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ManagedContentVariant.Id" type="SfFieldLabel" value="Managed Content Variant ID"/>
+  <translation key="ManagedContentVariant.IsPublished" type="SfFieldLabel" value="Published"/>
+  <translation key="ManagedContentVariant.Name" type="SfFieldLabel" value="Title"/>
+  <translation key="ManagedContentVariant.UrlName" type="SfFieldLabel" value="Content Slug"/>
+</translations>

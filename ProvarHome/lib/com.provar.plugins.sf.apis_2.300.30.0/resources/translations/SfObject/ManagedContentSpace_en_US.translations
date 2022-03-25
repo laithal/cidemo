@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ManagedContentSpace.Id" type="SfFieldLabel" value="Managed Content Space ID"/>
+  <translation key="ManagedContentSpace.Name" type="SfFieldLabel" value="Managed Content Space Name"/>
+</translations>

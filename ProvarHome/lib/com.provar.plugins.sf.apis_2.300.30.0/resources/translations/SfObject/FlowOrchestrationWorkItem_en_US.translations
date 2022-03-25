@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FlowOrchestrationWorkItem.Id" type="SfFieldLabel" value="Orchestration Work Item ID"/>
+  <translation key="FlowOrchestrationWorkItem.Label" type="SfFieldLabel" value="Step"/>
+  <translation key="FlowOrchestrationWorkItem.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="FlowOrchestrationWorkItem.RelatedRecordId" type="SfFieldLabel" value="Context Record"/>
+</translations>

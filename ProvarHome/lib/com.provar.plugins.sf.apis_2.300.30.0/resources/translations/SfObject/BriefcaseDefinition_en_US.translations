@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="BriefcaseDefinition.DeveloperName" type="SfFieldLabel" value="Name"/>
+  <translation key="BriefcaseDefinition.Id" type="SfFieldLabel" value="Briefcase Definition ID"/>
+  <translation key="BriefcaseDefinition.Language" type="SfFieldLabel" value="Master Language"/>
+</translations>

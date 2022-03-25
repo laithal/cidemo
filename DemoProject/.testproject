@@ -44,10 +44,9 @@
     </connectionClass>
     <connectionClass name="sf">
       <connections>
-        <connection name="DemoAdmin">
-          <summary/>
+        <connection name="appsDev">
           <connectionUrls>
-            <connectionUrl secureStorageNodeId="af38f155-5fe4-4288-9f29-f11b57e36e96" url="sf:user=provaradmin@appsdev.io;password={Awesome2022};environment=PROD_DEV"/>
+            <connectionUrl secureStorageNodeId="2ac3219a-e213-40e5-9161-132d663b6515" url="sf:user=provaradmin@appsdev.io;password={password};environment=PROD_DEV;lightningMode=true"/>
           </connectionUrls>
         </connection>
       </connections>

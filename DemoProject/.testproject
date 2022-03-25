@@ -47,7 +47,7 @@
         <connection name="DemoAdmin">
           <summary/>
           <connectionUrls>
-            <connectionUrl secureStorageNodeId="af38f155-5fe4-4288-9f29-f11b57e36e96" url="sf:user=laith@appsdev.io;password=e$L1u$3mNXE0&v6HY;environment=PROD_DEV"/>
+            <connectionUrl secureStorageNodeId="af38f155-5fe4-4288-9f29-f11b57e36e96" url="sf:user=laith@appsdev.io;password=e$L1u$3mNXE0v6HY;environment=PROD_DEV"/>
           </connectionUrls>
         </connection>
       </connections>
